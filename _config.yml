@@ -29,8 +29,8 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: jessiepyt
+twitter: jessiepang0125
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -43,21 +43,21 @@ quora: userquora
 reddit: username
 medium: medium
 vimeo: myvimeo
-email: myemail@gmail.com
+email: yutungpang0125@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Jessie Pang
+        bio: Not all who wanders are lost. 
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: jessiepang0125
     jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
+        name: Jessie Pang
+        bio: Not all who wanders are lost.
         external-image: false
         picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: jessiepang0125
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
